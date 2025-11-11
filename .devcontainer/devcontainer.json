@@ -1,3 +1,5 @@
+// Por Brando Matute
+
 {
   "name": "testing-escenarios-equivalencia",
   "image": "mcr.microsoft.com/devcontainers/python:3.11",
