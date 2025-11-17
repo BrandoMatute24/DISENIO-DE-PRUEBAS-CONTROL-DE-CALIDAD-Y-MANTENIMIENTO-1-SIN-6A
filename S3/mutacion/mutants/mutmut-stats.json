@@ -1,0 +1,15 @@
+{
+    "tests_by_mangled_function_name": {
+        "operaciones.x_es_mayor_edad": [
+            "test_operaciones.py::test_es_mayor_edad"
+        ],
+        "operaciones.x_descuento": [
+            "test_operaciones.py::test_descuento"
+        ]
+    },
+    "duration_by_test": {
+        "test_operaciones.py::test_es_mayor_edad": 0.00014458999976341147,
+        "test_operaciones.py::test_descuento": 0.0001341600000159815
+    },
+    "stats_time": 0.332437856
+}

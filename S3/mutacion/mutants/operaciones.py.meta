@@ -1,0 +1,11 @@
+{
+    "exit_code_by_key": {
+        "operaciones.x_es_mayor_edad__mutmut_1": 1,
+        "operaciones.x_es_mayor_edad__mutmut_2": 1,
+        "operaciones.x_descuento__mutmut_1": 1,
+        "operaciones.x_descuento__mutmut_2": 1,
+        "operaciones.x_descuento__mutmut_3": 1,
+        "operaciones.x_descuento__mutmut_4": 1
+    },
+    "hash_by_function_name": {}
+}
