@@ -1,10 +1,10 @@
-from pyDOE3 import ff3n
+# Por Brando Matute
+
+from pyDOE3 import ff2n
 import pandas as pd
 
-# Generar diseño factorial 2^3 (3 factores binarios)
-diseño = ff3n(3)
+diseño = ff2n(3)
 
-# Crear un DataFrame con nombres de factores
 df = pd.DataFrame(diseño, columns=["Temperatura", "Tiempo", "Rejilla"])
 
 print(df)
