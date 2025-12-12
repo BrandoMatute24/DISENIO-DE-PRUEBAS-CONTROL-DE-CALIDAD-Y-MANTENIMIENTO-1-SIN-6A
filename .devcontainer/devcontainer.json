@@ -4,6 +4,7 @@
   "customizations": {
     "vscode": {
       "extensions": [
+        "gitlab.gitlab-workflow",
         "ms-python.python",
         "ms-python.pylint"
       ]
